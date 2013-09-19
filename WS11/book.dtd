@@ -1,0 +1,13 @@
+<!ELEMENT book (title,(main|id))>
+<!ATTLIST book
+	lang CDATA #IMPLIED
+	>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT main (chapter*,text*)*>
+<!ELEMENT chapter EMPTY>
+<!ATTLIST chapter
+	nr NMTOKEN #REQUIRED
+	>
+<!ELEMENT text (#PCDATA)>
+	

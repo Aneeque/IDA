@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+<?xml-stylesheet href="q6.css" type="text/css"?>
+<book>
+<title>XML in a Nutshell</title>
+<main>
+<chapter nr="1"/>
+<text>Introducing XML</text>
+<chapter nr="2"/>
+<text>Content Model</text>
+<text>Operators</text>
+<chapter nr="3"/>
+</main>
+</book>

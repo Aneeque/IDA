@@ -1,0 +1,15 @@
+book
+{
+	font-size:12pt;
+	font-family:Garamond;
+}
+text
+{
+	font-family:Helvetica;
+	text-align:center;
+}
+title
+{
+	background-color:black;
+	color:white;
+}

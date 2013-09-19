@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pizza SYSTEM "pizza.dtd">
+<pizza>
+<size>large</size>
+<topping type="cheese"/>
+<topping type="tomator"/>
+<topping type="garlic"/>
+</pizza>

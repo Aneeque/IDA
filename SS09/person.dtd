@@ -1,0 +1,9 @@
+<!ELEMENT person (name,education+)>
+<!ElEMENT name EMPTY>
+<!ATTLIST name 
+	given CDATA #IMPLIED
+	surname CDATA #REQUIRED
+	>
+<!ELEMENT education (school|university)>
+<!ELEMENT school (#PCDATA)>
+<!ELEMENT university (#PCDATA)>

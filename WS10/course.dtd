@@ -1,0 +1,10 @@
+<!ELEMENT course ((title,dates*)|(courseid))>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT dates (date+)>
+<!ELEMENT date EMPTY>
+<!ATTLIST date
+	day NMTOKEN #IMPLIED
+	month NMTOKEN #IMPLIED
+	type (exersize|lecture) "lecture"
+>
+<!ELEMENT courseid (#PCDATA)>

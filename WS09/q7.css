@@ -1,0 +1,35 @@
+body
+{
+	color:orange;
+	
+}
+h1,h2,h3,h4,h5,h6
+{
+	font-family:Hevetica,serif;
+}
+h1,h2,h3
+{
+	font-style:italic;
+}
+em
+{
+	text-style:normal;
+} 
+em.italicred
+{
+	color:red;
+}
+#greenem
+{
+	font-style:normal;
+	color:green;
+}
+
+p:hover
+{
+	text-align:center;
+}
+h1:hover
+{
+	text-align:center;
+}

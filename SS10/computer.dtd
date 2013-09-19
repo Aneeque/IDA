@@ -1,0 +1,11 @@
+<!ELEMENT computer (cpu,memory)>
+<!ELEMENT cpu EMPTY>
+<!ATTLIST cpu
+	speed CDATA #REQUIRED>
+<!ELEMENT memory (main,disk+)>
+<!ELEMENT main (#PCDATA)>
+<!ELEMENT disk (#PCDATA)>
+<!ATTLIST disk 
+	name ID #REQUIRED
+	type CDATA #IMPLIED
+>

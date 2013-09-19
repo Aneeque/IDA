@@ -1,0 +1,16 @@
+body
+{
+	font-family:Garamond,serif;
+}
+h1,h2,h3,h4,h5,h6
+{
+	font-family:Helvetica;
+}
+h1,h2,h3
+{
+	text-align:center;
+}
+img
+{
+	float:right;
+}

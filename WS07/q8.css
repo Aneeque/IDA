@@ -1,0 +1,14 @@
+p
+{
+	text-align:center;
+}
+p.specific
+{
+	text-align:center;
+	background-color:green;
+}
+#specificpara
+{
+	text-align:center;
+	background-color:yellow;
+}

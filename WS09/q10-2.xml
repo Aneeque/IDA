@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pizza SYSTEM "pizza.dtd">
+<pizza>
+<size>small</size>
+<pizzaname>Speciale</pizzaname>
+</pizza>

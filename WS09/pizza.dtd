@@ -1,0 +1,7 @@
+<!ELEMENT pizza ((size,topping+)|(size,pizzaname))>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT topping EMPTY>
+<!ATTLIST topping
+	type CDATA #REQUIRED
+	>
+<!ELEMENT pizzaname (#PCDATA)>	

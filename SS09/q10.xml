@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE person SYSTEM "person.dtd">
+<person>
+<name given="Jhon" surname="Doe"/>
+<education>
+  <school>Springfield Elementary School</school>
+</education>
+<education>
+  <university>HS</university>
+</education>
+</person>

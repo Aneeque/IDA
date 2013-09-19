@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE computer SYSTEM "computer.dtd">
+<computer>
+<cpu speed="3.2 FHz"/>
+<memory>
+ <main>16 GB</main>
+ <disk name="disk1" type="flash">80 GB</disk>
+ <disk name="disk2"> 1 TB</disk>       
+</memory>
+</computer>

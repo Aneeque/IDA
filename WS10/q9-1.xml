@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE course SYSTEM "course.dtd">
+<?xml-stylesheet href="q6.css" type="text/css"?>
+<course>
+<title>Interactive Systems</title>
+<dates>
+<date day="26" month="January" type="exersize"/>
+<date day="19" month="January" type="lecture"/>
+</dates>
+</course>

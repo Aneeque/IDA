@@ -1,0 +1,13 @@
+course
+{
+	background-color:blue;
+	font-family:Garamond;
+}
+title
+{
+	text-align:right;
+}
+courseid:hover
+{
+	text-decoration:underline;	
+}
